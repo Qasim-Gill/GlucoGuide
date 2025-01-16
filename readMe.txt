@@ -25,6 +25,7 @@
 6. Test the app locally by using api key directly
 
 https://amnahassan.hashnode.dev/glucoguide-harness-the-power-of-ai-to-create-custom-meal-plans-for-diabetes
+https://www.youtube.com/watch?v=KK4YV8pumZk&list=PL9YwHWTveiYYaIM-9TXaLYqsiuwUkUBXm&index=21&ab_channel=ASPIREPakistanOfficial-PakAngels%2CNIB%2CNAIT
 
 
 
