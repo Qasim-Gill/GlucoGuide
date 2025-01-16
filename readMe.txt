@@ -23,3 +23,9 @@
 5. write function for integrating the AI Model using the api key.
 
 6. Test the app locally by using api key directly
+
+https://amnahassan.hashnode.dev/glucoguide-harness-the-power-of-ai-to-create-custom-meal-plans-for-diabetes
+
+
+
+
